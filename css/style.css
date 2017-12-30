@@ -16,7 +16,7 @@ body
     font-family: 'square721_bdex_btbold';
 }
 
-object, img {
+object, img, span {
     max-height: 90%;
     max-width: 90%;
     position: absolute;
