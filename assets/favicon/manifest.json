@@ -1,0 +1,41 @@
+{
+    "name": "LLIANA",
+    "icons": [
+        {
+            "src": "./assets/favicon/android-chrome-36x36.png?v=20171230195040",
+            "density": 0.75,
+            "type": "image/png",
+            "sizes": "36x36"
+        },
+        {
+            "src": "./assets/favicon/android-chrome-48x48.png?v=20171230195040",
+            "density": 1,
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "./assets/favicon/android-chrome-72x72.png?v=20171230195040",
+            "density": 1.5,
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "./assets/favicon/android-chrome-96x96.png?v=20171230195040",
+            "density": 2,
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "./assets/favicon/android-chrome-144x144.png?v=20171230195040",
+            "density": 3,
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "./assets/favicon/android-chrome-192x192.png?v=20171230195040",
+            "density": 4,
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}

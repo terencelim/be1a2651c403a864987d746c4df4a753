@@ -10,7 +10,4 @@ Thumbs.db
 
 # Specific files #
 ##################
-style.css
-style_old.css
-overlay.css
-overlay2.css
+html_head_snippet.html
